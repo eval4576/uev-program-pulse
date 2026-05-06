@@ -2,7 +2,9 @@
 
 **4-Stage AI Program Intelligence Pipeline for Ford EVDC**
 
-Built by [Eddie Valdivia](https://github.com/eval4576) · Powered by Anthropic Claude API
+Built by [Motionova Labs](https://github.com/eval4576) · Powered by Anthropic Claude API
+
+**[→ Live Demo](https://eval4576.github.io/uev-program-pulse)** · Opens instantly with pre-loaded program analysis · No API key required
 
 ---
 
@@ -90,7 +92,9 @@ No backend. No database. No framework. The entire tool is a single HTML file.
 
 **Option 1 — Live demo (no API key)**
 
-Open `index.html` in any browser. Load any scenario and explore the interface. Demo mode renders pre-analyzed output for the UEV Module Integration scenario immediately.
+Open the live tool: **[eval4576.github.io/uev-program-pulse](https://eval4576.github.io/uev-program-pulse)**
+
+The tool opens instantly with the UEV Module Integration scenario pre-loaded and all four stages already rendered — RAG status, drift analysis, ranked action list, and executive brief. No API key, no setup, no friction. Explore the full pipeline output immediately.
 
 **Option 2 — Live pipeline with your Anthropic API key**
 
